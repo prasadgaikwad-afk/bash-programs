@@ -1,5 +1,7 @@
 # bash-programs
 ****For assignment purpose only****
+
+
 1.Write a shell script to check read number is prime
 or not? (use for / while loop)
 
